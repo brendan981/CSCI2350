@@ -1,7 +1,7 @@
 // CSCI 2350 - Assignment 1 - Task A and AI-use reflection
 // Game Asset Memory Budget Monitor
 //
-// Name: TODO
+// Name: Brendan Cole
 // R number: TODO
 //
 // Write each answer after TODO. Keep every answer in this file as C++ comments.
